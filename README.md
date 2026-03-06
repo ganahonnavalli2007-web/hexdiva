@@ -1,4 +1,4 @@
-# 💫 About Me:
+# hi im gaana
 🔭 I’m currently working on: Beginner programming projects and improving my coding skills  <br><br>👯 I’m looking to collaborate on: Small open-source or beginner-friendly coding projects  <br><br>🤝 I’m looking for help with: Improving my problem-solving and coding skills  <br><br>🌱 I’m currently learning: C programming, Python, and basic computer science concepts  <br><br>💬 Ask me about: Beginner programming, college projects, and coding practice  <br><br>⚡ Fun fact: I love learning new tech and solving logical problems!
 
 
